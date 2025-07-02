@@ -11,7 +11,7 @@ It provides hands-on experience in designing, developing, and deploying a fully 
 ##  Purpose
 
 - Apply frontend & backend concepts in a real project  
-- Learn to deploy full-stack apps on **Vercel**, **Render**, or **Railway**  
+- Learn to deploy full-stack apps on **Vercel**,**Railway**  
 - Understand how to connect frontend and backend systems  
 
 ---
@@ -32,7 +32,7 @@ It provides hands-on experience in designing, developing, and deploying a fully 
 - Backend development with **Node.js** and **Express.js**  
 - API Integration using **Axios** or **Fetch**  
 - Database management using **MongoDB**  
-- Full-stack deployment using Vercel / Render  
+- Full-stack deployment using Vercel / Railway  
 - Version control using **Git & GitHub**  
 
 ---
@@ -55,7 +55,7 @@ It provides hands-on experience in designing, developing, and deploying a fully 
 
 ### 4. Deploy the App
 - Deploy backend to **Render**  
-- Deploy frontend to **Vercel**  
+- Deploy frontend to **Railway**  
 
 
 ##  Live Links
