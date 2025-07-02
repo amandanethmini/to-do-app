@@ -54,8 +54,8 @@ It provides hands-on experience in designing, developing, and deploying a fully 
 - Connect frontend with backend using Axios or Fetch  
 
 ### 4. Deploy the App
-- Deploy backend to **Render**  
-- Deploy frontend to **Railway**  
+- Deploy backend to **Railway**  
+- Deploy frontend to **Vercel**  
 
 
 ##  Live Links
@@ -72,6 +72,6 @@ It provides hands-on experience in designing, developing, and deploying a fully 
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB with Mongoose  
 - **API**: REST (via Axios or Fetch)  
-- **Deployment**: Vercel (Frontend), Render (Backend)  
+- **Deployment**: Vercel (Frontend), Railway (Backend)  
 - **Version Control**: Git & GitHub  
 
