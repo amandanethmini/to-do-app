@@ -8,7 +8,9 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-    origin: ['https://famous-swan-920f82.netlify.app/', 'https://to-do-list-green-five.vercel.app/'],
+    origin: process.env.NODE_ENV === 'production'
+        ? ['https://to-do-list-green-five.vercel.app/']
+        : ['http://localhost:3000'],
     credentials: true
 }));
 app.use(express.json());
@@ -33,5 +35,3 @@ mongoose.connect(process.env.MONGODB_URI, {
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
-
-const API_BASE_URL = process.env.REACT_APP_API_URL;
