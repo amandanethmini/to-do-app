@@ -58,15 +58,6 @@ It provides hands-on experience in designing, developing, and deploying a fully 
 - Deploy frontend to **Vercel**  
 
 
-### 5. Create a Demo Video
-- Record a 2–3 minute video showing:
-  - App overview
-  - Adding, editing, deleting todos
-  - Deployment URLs
-  - Brief code explanation
-
----
-
 ##  Live Links
 
 - **Frontend (Vercel)**: https://to-do-list-green-five.vercel.app/ 
